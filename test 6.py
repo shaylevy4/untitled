@@ -1,0 +1,5 @@
+radius=int(input("enter radius"))
+pi=float(3.141)
+p=(2*pi*radius)
+s=(pi*radius*radius)
+print(p,s)

@@ -1,0 +1,6 @@
+name=input("what is you name")
+current_year=int(input("enter current year"))
+age=int(input("enter age"))
+futre_year=int(input("enter futre year"))
+new_age=futre_year-(current_year-age)
+print(name,"will be",new_age, "in year",futre_year)
